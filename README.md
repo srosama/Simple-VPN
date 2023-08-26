@@ -15,4 +15,4 @@ The VPN server listens for incoming connections on a specified port. When a clie
 To run the VPN server, execute the following command:
 
 ```bash
-java VpnServer.java
+java server.java
